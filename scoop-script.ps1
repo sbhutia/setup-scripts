@@ -5,3 +5,4 @@ scoop bucket add extras
 scoop install extras/oraclejdk
 scoop install maven
 scoop install git
+scoop install nodejs
